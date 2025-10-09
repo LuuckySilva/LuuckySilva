@@ -1,7 +1,7 @@
 # 💻 Olá, eu sou o Lucas Silva! 👋
 
 Sou desenvolvedor **Front-End em evolução constante**, com foco em criar interfaces modernas, inteligentes e otimizadas por IA.  
-Atualmente estou consolidando meu aprendizado em **HTML, CSS, JavaScript e React**, e desenvolvendo projetos autorais que unem **design, automação e experiência do usuário**.
+Atualmente estou Buscando vagas Júnior Front-end / Engenheiro de Prompt / Projetos Freelance**.
 
 ---
 
@@ -12,8 +12,8 @@ Atualmente estou consolidando meu aprendizado em **HTML, CSS, JavaScript e React
 
 ---
 
-## 🧩 Projeto em destaque:
-### 🔹 [Projeto 01 – InteliCorp | Inovação com IA] <a href="https://github.com/LuuckySilva/PROJETO-01/tree/main">PROJETO</a>
+## 🧩 Projetos em destaques:
+### 🔹 [Projeto 01 – InteliCorp | Inovação com IA] <a href="https://luuckysilva.github.io/intelicorp-landing/"</a>
 Site corporativo inteligente que demonstra o uso de IA e automações no ambiente empresarial.  
 📌 **Tecnologias:** HTML, CSS, JavaScript  
 ✨ **Destaques:**  
