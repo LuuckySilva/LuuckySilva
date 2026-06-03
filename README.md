@@ -1,104 +1,124 @@
 <div align="center">
 
-# Olá, eu sou o Lucas Silva 👋
+# Lucas Silva
 
-**Front-End Developer | Prompt Engineering | IA aplicada ao desenvolvimento web**
+**Full Stack Developer | Angular · Node.js · C# .NET · Docker · Stripe · IA aplicada**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-403412a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olucas-silvaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuuckySilva)
+[![Portfolio](https://img.shields.io/badge/PayFlow-Live-6366f1?style=for-the-badge&logoColor=white)](https://payflow-teal-seven.vercel.app)
 
 </div>
 
 ---
 
-## 🧭 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor Front-End em evolução constante, com um diferencial claro: uno **código + criatividade + inteligência artificial** para construir interfaces modernas e experiências que vão além do visual.
+Desenvolvedor Full Stack em transição de carreira, com background em mercado financeiro e gestão administrativa. Entrego projetos reais em produção com arquitetura de microserviços, integração de pagamentos e pipeline automatizado.
 
-Atualmente focado em projetos que combinam **front-end sólido** com **automações e IA aplicada** — e aberto a vagas Júnior, projetos freelance e colaborações.
+Trabalho com múltiplas linguagens no mesmo sistema — Node.js e C# .NET rodando juntos, Angular no frontend, MongoDB e PostgreSQL como bancos. Uso IA como diferencial real, não como buzzword.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Stack
 
-**Front-End**
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-**IA & Automações**
+**Backend**
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Ferramentas**
+**Banco de Dados**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**Pagamentos**
 
-## 🚀 Projetos em destaque
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-### 🔹 [InteliCorp — Landing Page Corporativa com IA](https://luuckysilva.github.io/intelicorp-landing/)
-Site corporativo B2B premium que demonstra o uso de IA e automações no ambiente empresarial.
+**Infraestrutura**
 
-`HTML` `CSS` `JavaScript`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-✦ Layout responsivo e premium para desktop, tablet e mobile  
-✦ Chatbot interativo integrado  
-✦ Contadores animados de KPIs na hero section  
-✦ Formulário com validação e feedback ao usuário  
-✦ Animações de scroll reveal e notificações toast  
+**IA**
 
----
-
-### 🔹 [Wide Coverage — Landing Page](https://github.com/LuuckySilva/wide-coverage-landing-page)
-Landing page responsiva com foco em hierarquia visual e conversão.
-
-`HTML` `CSS`
+![OpenAI](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-### 🔹 [We Care Pet — Landing Page](https://github.com/LuuckySilva/we-care-pet-landing-page)
-Página institucional para clínica pet com identidade visual cuidadosa.
+## Projetos em produção
 
-`HTML` `CSS`
+### 🔹 [PayFlow](https://payflow-teal-seven.vercel.app) — Plataforma SaaS de Assinaturas
+Plataforma completa de gestão de assinaturas com checkout real via Stripe.
+
+`Angular` `Node.js` `C# .NET` `MongoDB` `PostgreSQL` `Docker` `Stripe` `GitHub Actions`
+
+✦ Arquitetura de microserviços — API Gateway em Node.js + Payment Service em C#  
+✦ Autenticação JWT com validação de senha e confirmação  
+✦ Checkout de assinaturas recorrentes via Stripe  
+✦ CI/CD com GitHub Actions — testes automáticos a cada push  
+✦ Deploy: Vercel + Railway  
+
+[🔗 Demo ao vivo](https://payflow-teal-seven.vercel.app) · [📁 Repositório](https://github.com/LuuckySilva/Payflow)
 
 ---
 
-## 📈 GitHub Stats
+### 🔹 [BarberApp](https://github.com/LuuckySilva/barberapp) — Sistema de Agendamento
+Sistema real em uso por cliente real — barbearia com agendamento online.
+
+`React` `Node.js` `PostgreSQL` `JWT`
+
+✦ Agendamento com prevenção de conflito de horários  
+✦ Painel administrativo com calendário  
+✦ Configuração de horários, dias bloqueados e intervalos  
+✦ Rotas protegidas com JWT  
+
+---
+
+### 🔹 [NovaCRM AI](https://github.com/LuuckySilva) — CRM com Análise de Leads via IA
+CRM com módulo de análise de leads usando OpenAI API.
+
+`React` `Node.js` `OpenAI API`
+
+✦ Score de conversão gerado por IA  
+✦ Classificação de leads e ações recomendadas  
+✦ Integração com API da OpenAI  
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuuckySilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs)
-
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuuckySilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuckySilva&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌱 Próximos passos
+## Próximos passos
 
-- Aprofundar em **React.js** e componentes reutilizáveis
-- Iniciar estudos de **Back-End** com Node.js
-- Integrar APIs reais nos projetos de portfólio
-- Expandir o uso de **IA e automações** no desenvolvimento web
-
----
-
-## 💬 Vamos conversar?
-
-Aberto a colaborações, mentorias e desafios reais.  
-Me encontre no [LinkedIn](https://www.linkedin.com/in/lucas-silva-403412a4/) ou envie um e-mail: **lukasantonyo@gmail.com**
+- Migrar PayFlow para AWS (EC2 + RDS)
+- TypeScript no backend Node.js
+- Prisma ORM substituindo queries manuais
+- Projeto colaborativo com C# + Angular
 
 ---
 
 <div align="center">
-  <sub>Feito com foco, código e um pouco de IA ⚡</sub>
+  <sub>Projetos reais. Deploy em produção. Código que funciona. ⚡</sub>
 </div>
